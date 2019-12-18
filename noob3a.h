@@ -45,7 +45,8 @@ typedef struct nb3a_ {
 #if !defined(NOOB3A_IMPL) && !defined(NOOB3A_STATIC)
   void noob3a_clean(noob3a_t*);
   int noob3a_loadfile(FILE*, noob3a_t*);
-#endif /*NOOB3A_IMPL*/
+#endif
+
 #ifdef NOOB3A_IMPL
 
 #ifdef NOOB3A_STATIC

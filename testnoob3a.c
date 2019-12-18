@@ -1,4 +1,4 @@
-//#include <stdio.h>
+#include <stdio.h>
 #define NOOB3A_IMPL
 #define NOOB3A_STATIC
 #include "noob3a.h"
